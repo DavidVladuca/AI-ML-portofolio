@@ -1,7 +1,11 @@
 # AI & ML Portfolio 🚀🤖
 
-This repository contains a collection of 5 machine learning and deep learning projects I built to **learn core AI/ML concepts** and to showcase them on my GitHub.  
-Each project includes data preprocessing, model training, evaluation, visualizations and relevant comments to make it easy to understand.  
+This portfolio is the result of my **self-learning journey in AI & ML**.  
+I started with curiosity, then used **ChatGPT as a learning assistant** and followed tutorials to understand the fundamentals.  
+From there, I gradually built and implemented these projects myself — step by step, debugging, experimenting, and improving along the way.  
+
+My goal wasn’t just to finish tutorials, but to truly **understand core ML concepts** and apply them in practice.  
+This collection reflects how I moved from simple models (like logistic regression) to more advanced architectures (CNNs, LSTMs) while learning how to preprocess data, train models, and evaluate results.
 
 ---
 
