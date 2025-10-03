@@ -66,7 +66,7 @@ Across these projects, I gained hands-on experience with:
 - **Deep Learning**: Fully Connected NNs, CNNs, LSTMs  
 - **Classical ML**: Logistic Regression, Decision Trees, Random Forests  
 - **Data Preprocessing**: Handling missing data, categorical encoding, normalization, tokenization, padding  
-- **Evaluation**: Accuracy, Precision, Recall, F1, AUC, visualization of predictions  
+- **Evaluation**: Accuracy, Precision, isualization of predictions  
 - **Frameworks**: PyTorch, scikit-learn, pandas, matplotlib  
 
 ---
